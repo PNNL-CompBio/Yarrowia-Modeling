@@ -1,0 +1,560 @@
+{
+    "compartments": {
+        "c": "",
+        "e": "",
+        "m": ""
+    },
+    "genes": [
+        {
+            "id": "CAD1",
+            "name": ""
+        },
+        {
+            "id": "YALI0F20702g",
+            "name": "YALI0F20702g"
+        },
+        {
+            "id": "YALI0E27005g",
+            "name": "YALI0E27005g"
+        },
+        {
+            "id": "YALI0D09361g",
+            "name": "YALI0D09361g"
+        },
+        {
+            "id": "YALI0E14949g",
+            "name": "YALI0E14949g"
+        },
+        {
+            "id": "MttA",
+            "name": ""
+        },
+        {
+            "id": "YALI0E02684g",
+            "name": "YALI0E02684g"
+        },
+        {
+            "id": "YALI0E00638g",
+            "name": "YALI0E00638g"
+        },
+        {
+            "id": "YALI0E04048g",
+            "name": "YALI0E04048g"
+        },
+        {
+            "id": "YALI0F05962p",
+            "name": "YALI0F05962p"
+        }
+    ],
+    "id": "Itaconate_pathway",
+    "metabolites": [
+        {
+            "charge": -1,
+            "compartment": "c",
+            "formula": "C2H3O2",
+            "id": "ac_c",
+            "name": "Acetate",
+            "notes": {
+                "map_info": {
+                    "display_name": "ac_c"
+                }
+            }
+        },
+        {
+            "charge": -1,
+            "compartment": "m",
+            "formula": "C2H3O2",
+            "id": "ac_m",
+            "name": "Acetate",
+            "notes": {
+                "map_info": {
+                    "display_name": "ac_m"
+                }
+            }
+        },
+        {
+            "charge": -3,
+            "compartment": "c",
+            "formula": "C6H3O6",
+            "id": "acon_C_c",
+            "name": "Cis-Aconitate",
+            "notes": {
+                "map_info": {
+                    "display_name": "acon_C_c"
+                }
+            }
+        },
+        {
+            "charge": 0,
+            "compartment": "c",
+            "formula": "CO2",
+            "id": "co2_c",
+            "name": "CO2",
+            "notes": {
+                "map_info": {
+                    "display_name": "co2_c"
+                }
+            }
+        },
+        {
+            "charge": 1,
+            "compartment": "c",
+            "formula": "H",
+            "id": "h_c",
+            "name": "H",
+            "notes": {
+                "map_info": {
+                    "display_name": "h_c",
+                    "hidden": true
+                }
+            }
+        },
+        {
+            "charge": -2,
+            "compartment": "c",
+            "formula": "C5H4O4",
+            "id": "itacon_c",
+            "name": "Itaconate",
+            "notes": {
+                "map_info": {
+                    "display_name": "itacon_c",
+                    "flux": 11.148989547038305
+                }
+            }
+        },
+        {
+            "charge": -4,
+            "compartment": "m",
+            "formula": "C23H34N7O17P3S",
+            "id": "accoa_m",
+            "name": "Acetyl_CoA",
+            "notes": {
+                "map_info": {
+                    "display_name": "accoa_m"
+                }
+            }
+        },
+        {
+            "charge": 0,
+            "compartment": "m",
+            "formula": "CO2",
+            "id": "co2_m",
+            "name": "CO2",
+            "notes": {
+                "map_info": {
+                    "display_name": "co2_m"
+                }
+            }
+        },
+        {
+            "charge": -4,
+            "compartment": "m",
+            "formula": "C21H32N7O16P3S",
+            "id": "coa_m",
+            "name": "Coenzyme_A",
+            "notes": {
+                "map_info": {
+                    "display_name": "coa_m",
+                    "hidden": true
+                }
+            }
+        },
+        {
+            "charge": -1,
+            "compartment": "m",
+            "formula": "C21H26N7O14P2",
+            "id": "nad_m",
+            "name": "Nicotinamide_adenine_dinucleotide",
+            "notes": {
+                "map_info": {
+                    "display_name": "nad_m",
+                    "hidden": true
+                }
+            }
+        },
+        {
+            "charge": -2,
+            "compartment": "m",
+            "formula": "C21H27N7O14P2",
+            "id": "nadh_m",
+            "name": "Nicotinamide_adenine_dinucleotide___reduced",
+            "notes": {
+                "map_info": {
+                    "display_name": "nadh_m",
+                    "hidden": true
+                }
+            }
+        },
+        {
+            "charge": -1,
+            "compartment": "m",
+            "formula": "C3H3O3",
+            "id": "pyr_m",
+            "name": "Pyruvate",
+            "notes": {
+                "map_info": {
+                    "display_name": "pyr_m"
+                }
+            }
+        },
+        {
+            "charge": -3,
+            "compartment": "m",
+            "formula": "C6H3O6",
+            "id": "acon_C_m",
+            "name": "Cis-Aconitate",
+            "notes": {
+                "map_info": {
+                    "display_name": "acon_C_m"
+                }
+            }
+        },
+        {
+            "charge": -3,
+            "compartment": "m",
+            "formula": "C6H5O7",
+            "id": "cit_m",
+            "name": "Citrate",
+            "notes": {
+                "map_info": {
+                    "display_name": "cit_m"
+                }
+            }
+        },
+        {
+            "charge": 0,
+            "compartment": "m",
+            "formula": "H2O",
+            "id": "h2o_m",
+            "name": "H2O",
+            "notes": {
+                "map_info": {
+                    "display_name": "h2o_m",
+                    "hidden": true
+                }
+            }
+        },
+        {
+            "charge": -2,
+            "compartment": "c",
+            "formula": "C4H4O5",
+            "id": "mal_L_c",
+            "name": "L_Malate",
+            "notes": {
+                "map_info": {
+                    "display_name": "mal_L_c"
+                }
+            }
+        },
+        {
+            "charge": -2,
+            "compartment": "m",
+            "formula": "C4H4O5",
+            "id": "mal_L_m",
+            "name": "L_Malate",
+            "notes": {
+                "map_info": {
+                    "display_name": "mal_L_m"
+                }
+            }
+        },
+        {
+            "charge": 1,
+            "compartment": "m",
+            "formula": "H",
+            "id": "h_m",
+            "name": "H",
+            "notes": {
+                "map_info": {
+                    "display_name": "h_m",
+                    "hidden": true
+                }
+            }
+        },
+        {
+            "charge": -2,
+            "compartment": "m",
+            "formula": "C4H2O5",
+            "id": "oaa_m",
+            "name": "Oxaloacetate",
+            "notes": {
+                "map_info": {
+                    "display_name": "oaa_m"
+                }
+            }
+        },
+        {
+            "charge": -2,
+            "compartment": "c",
+            "formula": "C4H2O5",
+            "id": "oaa_c",
+            "name": "Oxaloacetate",
+            "notes": {
+                "map_info": {
+                    "display_name": "oaa_c"
+                }
+            }
+        },
+        {
+            "charge": -1,
+            "compartment": "c",
+            "formula": "C3H3O3",
+            "id": "pyr_c",
+            "name": "Pyruvate",
+            "notes": {
+                "map_info": {
+                    "display_name": "pyr_c"
+                }
+            }
+        },
+        {
+            "charge": -2,
+            "compartment": "e",
+            "formula": "C5H4O4",
+            "id": "itacon_e",
+            "name": "Itaconate",
+            "notes": {
+                "map_info": {
+                    "display_name": "itacon_e"
+                }
+            }
+        },
+        {
+            "charge": -2,
+            "compartment": "m",
+            "formula": "C10H12N5O7P",
+            "id": "amp_m",
+            "name": "AMP",
+            "notes": {
+                "map_info": {
+                    "display_name": "amp_m",
+                    "hidden": true
+                }
+            }
+        },
+        {
+            "charge": -4,
+            "compartment": "m",
+            "formula": "C10H12N5O13P3",
+            "id": "atp_m",
+            "name": "ATP",
+            "notes": {
+                "map_info": {
+                    "display_name": "atp_m",
+                    "hidden": true
+                }
+            }
+        },
+        {
+            "charge": -3,
+            "compartment": "m",
+            "formula": "HO7P2",
+            "id": "ppi_m",
+            "name": "Diphosphate",
+            "notes": {
+                "map_info": {
+                    "display_name": "ppi_m",
+                    "hidden": true
+                }
+            }
+        }
+    ],
+    "reactions": [
+        {
+            "gene_reaction_rule": "",
+            "id": "ACtm",
+            "lower_bound": -1000.0,
+            "metabolites": {
+                "ac_c": -1.0,
+                "ac_m": 1.0
+            },
+            "name": "acetate transport mitochondrial",
+            "notes": {
+                "map_info": {
+                    "flux": 4.595958188153297,
+                    "reversibility": true
+                }
+            },
+            "upper_bound": 1000.0
+        },
+        {
+            "gene_reaction_rule": "CAD1",
+            "id": "ITACON",
+            "lower_bound": -100,
+            "metabolites": {
+                "acon_C_c": -1,
+                "co2_c": 1,
+                "h_c": -1,
+                "itacon_c": 1
+            },
+            "name": "Aconitate Decarboxylase",
+            "notes": {
+                "map_info": {
+                    "flux": 11.148989547038305,
+                    "reversibility": true
+                }
+            },
+            "subsystem": "Engineered Itaconate Biosynthesis",
+            "upper_bound": 100
+        },
+        {
+            "gene_reaction_rule": "YALI0E27005g and YALI0F20702g",
+            "id": "PDHm",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "accoa_m": 1.0,
+                "co2_m": 1.0,
+                "coa_m": -1.0,
+                "nad_m": -1.0,
+                "nadh_m": 1.0,
+                "pyr_m": -1.0
+            },
+            "name": "pyruvate dehydrogenase",
+            "notes": {
+                "map_info": {
+                    "flux": 6.553031358885009,
+                    "reversibility": false
+                }
+            },
+            "upper_bound": 1000.0
+        },
+        {
+            "gene_reaction_rule": "YALI0D09361g or YALI0E14949g",
+            "id": "ACONTam",
+            "lower_bound": -100,
+            "metabolites": {
+                "acon_C_m": 1,
+                "cit_m": -1.0,
+                "h2o_m": 1
+            },
+            "name": "Mitochondrial Aconitase (half-reaction A, Citrate hydro-lase)",
+            "notes": {
+                "map_info": {
+                    "flux": 11.148989547038308,
+                    "reversibility": true
+                }
+            },
+            "subsystem": "Mitochondrial Citric Acid Cycle",
+            "upper_bound": 100
+        },
+        {
+            "gene_reaction_rule": "MttA",
+            "id": "ACONTtam",
+            "lower_bound": -100,
+            "metabolites": {
+                "acon_C_c": 1,
+                "acon_C_m": -1,
+                "mal_L_c": -1,
+                "mal_L_m": 1
+            },
+            "name": "Cis-aconitate malate antiport, mitochondrial",
+            "notes": {
+                "map_info": {
+                    "flux": 11.148989547038308,
+                    "reversibility": true
+                }
+            },
+            "subsystem": "Engineered Itaconate Biosynthesis",
+            "upper_bound": 100
+        },
+        {
+            "gene_reaction_rule": "YALI0E00638g or YALI0E02684g",
+            "id": "CSm",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "accoa_m": -1.0,
+                "cit_m": 1.0,
+                "coa_m": 1.0,
+                "h2o_m": -1.0,
+                "h_m": 1.0,
+                "oaa_m": -1.0
+            },
+            "name": "citrate synthase",
+            "notes": {
+                "map_info": {
+                    "flux": 11.148989547038305,
+                    "reversibility": false
+                }
+            },
+            "upper_bound": 1000.0
+        },
+        {
+            "gene_reaction_rule": "YALI0E04048g",
+            "id": "OAAt2m",
+            "lower_bound": -1000.0,
+            "metabolites": {
+                "h_c": -1.0,
+                "h_m": 1.0,
+                "oaa_c": -1.0,
+                "oaa_m": 1.0
+            },
+            "name": "oxaloacetate transport mitochondrial",
+            "notes": {
+                "map_info": {
+                    "flux": 11.148989547038305,
+                    "reversibility": true
+                }
+            },
+            "upper_bound": 1000.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "PYRt2m",
+            "lower_bound": -1000.0,
+            "metabolites": {
+                "h_c": -1.0,
+                "h_m": 1.0,
+                "pyr_c": -1.0,
+                "pyr_m": 1.0
+            },
+            "name": "pyruvate mitochondrial transport via proton symport",
+            "notes": {
+                "map_info": {
+                    "flux": 6.553031358885028,
+                    "reversibility": true
+                }
+            },
+            "upper_bound": 1000.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "ITACONtr",
+            "lower_bound": -100,
+            "metabolites": {
+                "itacon_c": -1,
+                "itacon_e": 1
+            },
+            "name": "Itaconate transport",
+            "notes": {
+                "map_info": {
+                    "flux": 11.148989547038305,
+                    "reversibility": true
+                }
+            },
+            "subsystem": "Engineered Itaconate Biosynthesis",
+            "upper_bound": 100
+        },
+        {
+            "gene_reaction_rule": "YALI0F05962p",
+            "id": "ACSm",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "ac_m": -1.0,
+                "accoa_m": 1.0,
+                "amp_m": 1.0,
+                "atp_m": -1.0,
+                "coa_m": -1.0,
+                "ppi_m": 1.0
+            },
+            "name": "acetyl CoA synthetase",
+            "notes": {
+                "map_info": {
+                    "flux": 4.595958188153306,
+                    "reversibility": false
+                }
+            },
+            "upper_bound": 1000.0
+        }
+    ],
+    "version": "1"
+}
