@@ -1,0 +1,50 @@
+
+=====================
+Scientific Program: Fungal
+Organism Name: Yarrowia lipolytica FKP679
+Principal Investigator: Scott Baker
+Proposal ID: 1583
+Sequencing Project ID: 1153657
+Final Deliverable Project ID: 1153563
+Proposal Name: A genomic and transcriptomic approach to improved hydrocarbon biofuel precursor production by oleaginous yeast
+Sequencing Project Name: Yarrowia lipolytica Gene Expression Profiling
+
+=====================
+ SAMPLE SUMMARY
+=====================
+1=libraryName   2=SampleId      3=rawReads      4=filteredReads 5=sampleName    6=conditionNumber       7=replicateGroup        8=sequencerType 9=runType       10=fileUsed
+CGGHY   153174  20525623        20503903        IDP CIT 1       5       IDP CIT HiSeq-2500 1TB  1x101   12168.2.240631.GTTCGGT-AACCGAA.filter-RNA.fastq.gz
+CGGHZ   153175  21795405        21664074        IDP CIT 2       5       IDP CIT HiSeq-2500 1TB  1x101   12168.2.240631.ACAGCAA-GTTGCTG.filter-RNA.fastq.gz
+CGGNA   153176  16822382        16693498        IDP CIT 3       5       IDP CIT HiSeq-2500 1TB  1x101   12081.4.236932.CGTAGGT-AACCTAC.filter-RNA.fastq.gz
+CGGNB   153177  18056835        18052335        mae CIT 1       6       mae CIT HiSeq-2500 1TB  1x101   12081.8.236988.TCATCAC-GGTGATG.filter-RNA.fastq.gz
+CGGNC   153178  17529949        17404402        mae CIT 2       6       mae CIT HiSeq-2500 1TB  1x101   12081.4.236932.TGTGCGT-AACGCAC.filter-RNA.fastq.gz
+CGGNG   153179  23387666        23366660        mae CIT 3       6       mae CIT HiSeq-2500 1TB  1x101   12168.3.240643.ACCATCC-TGGATGG.filter-RNA.fastq.gz
+CGGNH   153180  16957559        16797558        WT CIT 1        7       WT CIT  HiSeq-2500 1TB  1x101   12081.4.236932.GCTACGT-AACGTAG.filter-RNA.fastq.gz
+CGGNN   153181  18235642        18217537        WT CIT 2        7       WT CIT  HiSeq-2500 1TB  1x101   12168.2.240631.CGCTTAA-GTTAAGC.filter-RNA.fastq.gz
+CGGNO   153182  14346281        14249013        WT CIT 3        7       WT CIT  HiSeq-2500 1TB  1x101   12081.4.236932.TCCGAGT-AACTCGG.filter-RNA.fastq.gz
+CGGNP   153183  19482109        19463424        zwf CIT 1       8       zwf CIT HiSeq-2500 1TB  1x101   12168.1.240618.AGTCTCA-GTGAGAC.filter-RNA.fastq.gz
+CGGNS   153184  13189918        13186046        zwf CIT 2       8       zwf CIT HiSeq-2500 1TB  1x101   12081.4.236932.CCTCAGT-AACTGAG.filter-RNA.fastq.gz
+CGGNT   153185  18491141        18389542        zwf CIT 3       8       zwf CIT HiSeq-2500 1TB  1x101   12081.8.236988.TTCGTAC-GGTACGA.filter-RNA.fastq.gz
+CGGNW   153187  20234511        20113092        IDP glucose 2   9       IDP glucose     HiSeq-2500 1TB  1x101   12168.1.240618.GTAACGA-GTCGTTA.filter-RNA.fastq.gz
+CGGNX   153188  14989533        14930828        IDP glucose 3   9       IDP glucose     HiSeq-2500 1TB  1x101   12081.4.236932.GAACGCT-AAGCGTT.filter-RNA.fastq.gz
+CGGNY   153189  15735750        15647008        mae glucose 1   10      mae glucose     HiSeq-2500 1TB  1x101   12081.8.236988.ATTGAGC-GGCTCAA.filter-RNA.fastq.gz
+CGGNZ   153190  13734626        13731412        mae glucose 2   10      mae glucose     HiSeq-2500 1TB  1x101   12081.4.236932.GTGAGCT-AAGCTCA.filter-RNA.fastq.gz
+CGGOA   153191  19302217        19196429        mae glucose 3   10      mae glucose     HiSeq-2500 1TB  1x101   12168.1.240618.CAATCGA-GTCGATT.filter-RNA.fastq.gz
+CGGOB   153192  13638270        13542363        WT glucose 1    11      WT glucose      HiSeq-2500 1TB  1x101   12081.4.236932.CCTTCCT-AAGGAAG.filter-RNA.fastq.gz
+CGGOC   153193  21287164        21266964        WT glucose 2    11      WT glucose      HiSeq-2500 1TB  1x101   12168.1.240618.TGACTGA-GTCAGTC.filter-RNA.fastq.gz
+CGGOG   153194  16011010        16006803        WT glucose 3    11      WT glucose      HiSeq-2500 1TB  1x101   12081.4.236932.GTCTCCT-AAGGAGA.filter-RNA.fastq.gz
+CGGOH   153195  21747226        21727453        zwf glucose 1   12      zwf glucose     HiSeq-2500 1TB  1x101   12168.1.240618.ACGATGA-GTCATCG.filter-RNA.fastq.gz
+CGGON   153196  14935485        14800719        zwf glucose 2   12      zwf glucose     HiSeq-2500 1TB  1x101   12081.4.236932.TACGCCT-AAGGCGT.filter-RNA.fastq.gz
+CGGOO   153197  15419600        15417004        zwf glucose 3   12      zwf glucose     HiSeq-2500 1TB  1x101   12081.8.236988.AGTAGTC-GGACTAC.filter-RNA.fastq.gz
+CGGOP   153198  16133434        16032472        IDP MAL 1       13      IDP MAL HiSeq-2500 1TB  1x101   12081.5.236946.AGAGCCT-AAGGCTC.filter-RNA.fastq.gz
+CGGOS   153199  17992990        17989663        IDP MAL 2       13      IDP MAL HiSeq-2500 1TB  1x101   12081.7.236974.TCTCTTC-GGAAGAG.filter-RNA.fastq.gz
+CGGOT   153200  18291899        18288090        IDP MAL 3       13      IDP MAL HiSeq-2500 1TB  1x101   12081.5.236946.GAGGACT-AAGTCCT.filter-RNA.fastq.gz
+CGGOU   153201  18644624        18566923        mae MAL 1       14      mae MAL HiSeq-2500 1TB  1x101   12081.8.236988.AGAATGC-GGCATTC.filter-RNA.fastq.gz
+CGGOW   153202  19636200        19632248        mae MAL 2       14      mae MAL HiSeq-2500 1TB  1x101   12081.5.236946.GCTGGAT-AATCCAG.filter-RNA.fastq.gz
+CGGOX   153203  24299615        24160929        mae MAL 3       14      mae MAL HiSeq-2500 1TB  1x101   12168.3.240643.AGCAAGC-TGCTTGC.filter-RNA.fastq.gz
+CGGOY   153204  19201306        19196839        WT MAL 1        15      WT MAL  HiSeq-2500 1TB  1x101   12081.5.236946.CGACCAT-AATGGTC.filter-RNA.fastq.gz
+CGGOZ   153205  19556350        19455610        WT MAL 2        15      WT MAL  HiSeq-2500 1TB  1x101   12168.1.240618.TCGGTTA-GTAACCG.filter-RNA.fastq.gz
+CGGPA   153206  18974516        18970251        WT MAL 3        15      WT MAL  HiSeq-2500 1TB  1x101   12081.5.236946.CACGTTG-ACAACGT.filter-RNA.fastq.gz
+CGGPB   153207  16986384        16895876        zwf MAL 1       16      zwf MAL HiSeq-2500 1TB  1x101   12081.8.236988.GTTCAAC-GGTTGAA.filter-RNA.fastq.gz
+CGGPC   153208  17557936        17469067        zwf MAL 2       16      zwf MAL HiSeq-2500 1TB  1x101   12081.5.236946.CAGAGTG-ACACTCT.filter-RNA.fastq.gz
+CGGPG   153209  27340917        27317330        zwf MAL 3       16      zwf MAL HiSeq-2500 1TB  1x101   12168.3.240643.GGATACC-TGGTATC.filter-RNA.fastq.gz
